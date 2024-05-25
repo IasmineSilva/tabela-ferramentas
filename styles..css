@@ -1,4 +1,12 @@
-body {
-    font-size: 100px;
-    background: linear-gradient(68.15deg, #af243c16.62%, #8E5D52 85.61%);
+td{
+    border: 1px solid black;
+    text-align: center;
+    width: 96px; 
+}
+img{
+    width: 48px;
+    height: 48px;
+}
+h1{
+    text-align: center; 
 }
